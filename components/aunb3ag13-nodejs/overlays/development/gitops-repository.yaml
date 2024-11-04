@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: aunb3ag13-nodejs-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/aunb3ag13-nodejs-gitops
